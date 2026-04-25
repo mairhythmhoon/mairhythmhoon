@@ -1,5 +1,3 @@
-![banner](https://github.com/mairhythmhoon/mairhythmhoon/blob/main/mairhythmhoon.jpg)
-
 # 💫 About Me:
 Now I am student of Diploma in Computers Engineering.. <br>At, A.V.Parekh Technical Institute<br><br>Now I am working on Automatic Email Sender<br><br>My dream is being a good Backend Developer..
 
@@ -16,6 +14,8 @@ Now I am student of Diploma in Computers Engineering.. <br>At, A.V.Parekh Techni
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+![banner](https://github.com/mairhythmhoon/mairhythmhoon/blob/main/mairhythmhoon.jpg)
 
 ---
 [![](https://komarev.com/ghpvc/?username=mairhythmhoon&icon=0&color=0)](https://visitcount.itsvg.in)
